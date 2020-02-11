@@ -156,10 +156,10 @@ div.gallery img {
 
 .see-more {
     border-color: white;
-    color: rgb(22,80,68);
+    color: rgb(41,50,52);
 }
 .see-more:hover {
-    background-color: rgb(22,80,68);
+    background-color: rgb(41,50,52);
     color: white;
 }
 .navbar {
@@ -188,7 +188,7 @@ div.gallery img {
     text-decoration: none;
     text-transform: uppercase;
     font-weight: bold;
-    font-size:2vw;
+    font-size:1.7vw;
     font-family: sans-serif;
     color: white;
 }
