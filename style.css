@@ -206,8 +206,3 @@ i {
     pointer-events: none;
     transition: opacity .3s ease-in-out;
 }
-i:hover {
-    background: yellow;
-    color: black;
-    transition: 0.5s;
-}
